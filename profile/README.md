@@ -2,9 +2,9 @@
 
 Welcome to our GitHub organization! We are a team of four developers who collaborated on building the Sensor Lab Project, which consists of the following repositories:
 
-1. Attendance App Flutter
-2. RFID Server (NodeJS)
-3. RFID Raspberry Server (Python)
+1. [Attendance App Flutter](https://github.com/SEM-6-MP2-0/Attendence-App)
+2. [RFID Server (NodeJS)](https://github.com/SEM-6-MP2-0/RFID_Server)
+3. [RFID Raspberry Server (Python)](https://github.com/SEM-6-MP2-0/RFID_Raspberry_Server)
 
 Our project is aimed at utilizing RFID technology for attendance tracking in a college setting, and we believe that our code will be useful to other educational institutions looking to implement similar systems.
 
@@ -24,7 +24,7 @@ The RFID Raspberry Server is the hardware component of our Sensor Lab Project. I
 
 We have prepared a demo video that showcases the functionality of our Sensor Lab Project. You can view the video by clicking on the link below:
 
-[Demo Video](https://www.youtube.com/watch?v=xxxxxxxxxxx)
+[Demo Video](https://youtu.be/BCc3W9qBQw4)
 
 ## Getting Started
 
